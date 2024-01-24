@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server'
 const mongoose = require('mongoose')
 
 
-mongoose.connect(process.env.DB_URI).then(console.log("CONNECTED")).catch((err)=>console.log("ERROR"+err))
+mongoose.connect(`${process.env.DB_URI}`).then(console.log("CONNECTED")).catch((err)=>console.log("ERROR"+err))
 
 const Schema =  new mongoose.Schema({
     type:String,

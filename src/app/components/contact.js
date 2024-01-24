@@ -16,7 +16,7 @@ export default function Contact(){
     const senData =async()=>{
       setformdata({type,message})
       try{
-        const response = await fetch('http://localhost:3000/api/send',({
+        const response = await fetch('https://personalweb-navy.vercel.app/api/send',({
           method:'POST',
           headers:{
             'Content-Type':'application/json'

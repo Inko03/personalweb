@@ -158,6 +158,7 @@ useEffect(()=>{
   return (
 <div id='scroll-palce'>
     <div id='scroll-content'>
+      <div id={styles.logo}><img src='/photo/rysunek.png' id={styles.logoimg}></img></div>
     <a aria-label="Linkedin" href='https://linkedin.com/in/mateusz-żmija-94368927a' target='_blank'><img src='/photo/linkedin.png' alt='linkedinimg' className={styles.imagelink}  ></img></a>
     <a aria-label="Github" href='https://github.com/Inko03'  target='_blank'><img src='/photo/github.png' alt='githubimg' className={styles.imagegithub}  ></img></a>
     <Main/>

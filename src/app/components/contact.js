@@ -18,7 +18,6 @@ export default function Contact(){
     })
     const senData =async()=>{
       try{
-        setpending(true)
         const response = await fetch('https://mateuszwebsite.pl/api/send',({
           method:'POST',
           headers:{

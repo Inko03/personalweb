@@ -10,6 +10,7 @@
 .unTitle{
   color: #FEFBE9;
   width: 15rem;
+  margin-top: 8px;
 }
 .line1{
   position: absolute;
@@ -689,7 +690,7 @@ cursor: pointer;
   z-index: 3;
   left: 1vw;
   top: 1vw;
-  animation:  rotate 9s linear infinite;
+  animation:  rotate 13s linear infinite;
   mix-blend-mode: difference;
 }
 #logoimg{

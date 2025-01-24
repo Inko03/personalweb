@@ -102,7 +102,7 @@ tech.fromTo(".page_line15__OEKee",{height:0},{height:'19vh'})
 
 //page_about__aOfOo
 const tt = gsap.timeline({repeat:-1,yoyo:true, repeatDelay:2});
-tt.fromTo(".page_unTitle__D6Cto",{text:".",color:'transparent'},{text:"Junior Web Developer",color:'#FEFBE9', duration:2})
+tt.fromTo(".page_unTitle__D6Cto",{text:".",color:'transparent'},{text:"Junior Software Developer",color:'#FEFBE9', duration:2})
 
 ScrollTrigger.create({
   start:0,

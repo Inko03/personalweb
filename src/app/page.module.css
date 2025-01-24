@@ -1,3 +1,4 @@
+
 .title{
   font-size: 4rem;
   color: #FEFBE9;
@@ -15,7 +16,7 @@
   left: 10vw;
   bottom: 0;
   height: 70vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;
 }
 .line1::after{
@@ -39,7 +40,7 @@
   right: 22vw;
   bottom: 0;
   height: 30vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .love{
@@ -54,14 +55,14 @@
   left: 10vw;
   top: 0;
   height: 20vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .line4{
   position: absolute;
   left: 11vw;
   top: 21vh;
-  height: 0.1px;
+  height: 0.06rem;
   width: 20vw;
   background-color: #FEFBE9;;
 }
@@ -70,7 +71,7 @@
   left: 35vw;
   top: 0;
   height: 9.8vh;
-  width: 0.1px;
+  width:0.05rem;
   background-color: #FEFBE9;;
 }
 .line5extra{
@@ -78,7 +79,7 @@
   left: 35vw;
   bottom: 0;
   height: 10vh;
-  width: 0.1px;
+  width:0.05rem;
   background-color: #FEFBE9;;
 }
 .name{
@@ -95,7 +96,7 @@
   left: 32vw;
   top: 22vh;
   height: 9.8vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .text6{
@@ -113,7 +114,7 @@
   left: 35vw;
   bottom: 0;
   height: 12vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .text7{
@@ -129,14 +130,14 @@
   right: 19vw;
   bottom: 0;
   height: 33vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .line9{
   position: absolute;
   right: 20vw;
   bottom: 34vh;
-  height: 0.1px;
+  height: 0.06rem;
   width:9vw;
   background-color: #FEFBE9;;
 }
@@ -199,7 +200,7 @@ transform: scale(1.1);
 .project{
   height: 100vh;
   width: 100%;
-  background-color: #786E59;
+  background-color: #998a6b;
   position: relative;
 }
 .line10{
@@ -207,14 +208,14 @@ transform: scale(1.1);
   left: 35vw;
   top: 0;
   height: 5vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .line11{
   position: absolute;
   left: 29vw;
   top:5vh;
-  height: 0.1px;
+  height: 0.05rem;
   width: 4vw;
   background-color: #FEFBE9;;
 }
@@ -223,7 +224,7 @@ transform: scale(1.1);
   left: 29vw;
   top:6vh;
   height: 4vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .photo1{
@@ -244,7 +245,7 @@ transform: scale(1.1);
   right: 19vw;
   top: 0;
   height: 35vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .line13extra{
@@ -252,14 +253,14 @@ transform: scale(1.1);
   right: 19vw;
   top:54vh;
   height: 35vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .line13extra2{
   position: absolute;
   right: 20vw;
   top:89vh;
-  height: 0.1px;
+  height: 0.06rem;
   width: 18vw;
   background-color: #FEFBE9;;
 }
@@ -268,7 +269,7 @@ transform: scale(1.1);
   right: 38vw;
   bottom: 0;
   height: 10vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .photo2{
@@ -289,7 +290,7 @@ transform: scale(1.1);
   left: 19vw;
   bottom: 0;
   height: 15vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .photo3{
@@ -316,7 +317,7 @@ transform: scale(1.1);
   left: 19vw;
   top: 0;
   height: 19vh;
-  width: 0.1px;
+  width: 0.05rem;
   background-color: #FEFBE9;;
 }
 .text15{
@@ -332,7 +333,7 @@ transform: scale(1.1);
   left: 8vw;
   bottom: 0;
   height: 20vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .text16{
@@ -348,7 +349,7 @@ transform: scale(1.1);
   left: 28vw;
   bottom: 0;
   height:5vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .text17{
@@ -364,7 +365,7 @@ transform: scale(1.1);
   left: 44vw;
   bottom: 0;
   height: 40vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .text18{
@@ -380,7 +381,7 @@ transform: scale(1.1);
   right: 38vw;
   top: 0;
   height: 19vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .text19{
@@ -396,7 +397,7 @@ transform: scale(1.1);
   right: 18vw;
   bottom: 0;
   height: 20vh;
-  width: 0.1px;
+  width: 0.06rem;
   background-color: #FEFBE9;;
 }
 .text20{
@@ -450,7 +451,7 @@ border-bottom: 1px solid #FEFBE9;
 .contact{
   height: 50vh;
   width: 100%;
-  background-color: #786E59;
+  background-color: #998a6b;
   display: flex;
   justify-content: flex-end;
   align-items: center;

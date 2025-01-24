@@ -1,3 +1,6 @@
+:root{
+
+}
 body{
   margin:0;
 }
@@ -10,4 +13,14 @@ body{
   flex-direction: column;
   background-color: #141414;
   position: relative;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: light; /* Deklaruje jasny schemat kolorów */
+  }
+
+  body {
+    background-color: white; /* Nadpisz tło w ciemnym trybie */
+    color: black; /* Nadpisz tekst w ciemnym trybie */
+  }
 }

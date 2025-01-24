@@ -3,9 +3,9 @@ export default function Tech(){
     return(
         <div className={styles.tech}>
 <div className={styles.line15}></div>
-<span className={`${styles.text15} ${styles.texttech}`}>CSS</span>
+<span className={`${styles.text15} ${styles.texttech}`}>.NET</span>
 <div className={styles.line16}></div>
-<span className={`${styles.text16} ${styles.texttech}`}>HTML</span>
+<span className={`${styles.text16} ${styles.texttech}`}>C#</span>
 <div className={styles.line17}></div>
 <span className={`${styles.text17} ${styles.texttech}`}>REACT</span>
 <div className={styles.line18}></div>

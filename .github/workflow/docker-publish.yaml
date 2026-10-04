@@ -1,4 +1,4 @@
-name: Build and deploy frontend
+name: Build and deploy my-website
 
 on:
   push:
@@ -30,8 +30,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/inko03/frontend:latest
-            ghcr.io/inko03/frontend:${{ github.sha }}
+            ghcr.io/inko03/my-website:latest
+            ghcr.io/inko03/my-website:${{ github.sha }}
 
       - name: Connect to Tailscale
         uses: tailscale/github-action@v4

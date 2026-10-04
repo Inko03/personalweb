@@ -25,7 +25,7 @@ export default function Projects(){
   <div className={styles.photo3}>
   <span className={styles.titleP}>Online shop and Brand site</span>
       <span className={styles.stactitle}>Tech use:</span>
-      <span className={styles.stacP}>React, NodeJS, MongoDB</span>
+      <span className={styles.stacP}>React, ASP.NET, MS SQL</span>
       <span className={styles.linktoWeb}>Wanna see?</span>
   </div>
 </div>
